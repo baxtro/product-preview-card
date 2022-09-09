@@ -29,7 +29,7 @@ Users should be able to:
 Desktop:
 ![](images/Product-preview-desktop-screenshot.PNG)
 Mobile:
-![](images/product-preview-card-mobile-screenshot.png)
+![](images/product-preview-card-mobile-screenshot2.png)
 
 
 
