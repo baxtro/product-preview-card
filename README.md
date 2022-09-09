@@ -25,10 +25,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
-Desktop:
+### Screenshots
+
 ![](images/Product-preview-desktop-screenshot.PNG)
-Mobile:
+
 ![](images/product-preview-card-mobile-screenshot2.png)
 
 
